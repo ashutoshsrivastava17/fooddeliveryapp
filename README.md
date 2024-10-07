@@ -47,6 +47,8 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    flutter run
 
+
+**Screenshots**
 <table>
   <tr>
     <td><img src="screenshots/home.png" alt="Home Screen" width="200" /></td>
