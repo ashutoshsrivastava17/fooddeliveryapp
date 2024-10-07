@@ -46,3 +46,9 @@ To get a local copy up and running, follow these simple steps:
 4. **Run the app**
    ```bash
    flutter run
+
+
+![Home Screen](screenshots/home.png)
+![Product Details](screenshots/item_detail.png)
+![Item added in Cart](screenshots/home_with_cart.png)
+![Cart Screen](screenshots/cart.png)
