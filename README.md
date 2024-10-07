@@ -30,10 +30,13 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/yourusername/fooddeliveryapp.git
    
 2. **Navigate into the directory**
+   ```bash
    cd fooddeliveryapp
 
 3. **Install dependencies**
+   ```bash
    flutter pub get
 
 4. **Run the app**
+   ```bash
    flutter run
