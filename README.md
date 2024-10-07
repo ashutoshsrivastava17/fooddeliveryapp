@@ -4,6 +4,14 @@
 
 This repository showcases a Food Delivery App developed with Flutter, aiming to replicate a sophisticated UI inspired by a design found on [Dribbble](https://dribbble.com/shots/15082658-Food-Delivery-App).
 
+## Flutter & Dart Versions
+- **Flutter**: 3.24.3 (channel stable)  
+  Framework: revision 2663184aa7 (4 weeks ago)  
+  Engine: revision 36335019a8
+- **Dart**: 3.5.3
+- **DevTools**: 2.37.3
+- **JDK**: Version (specify your JDK version here, e.g., JDK 11 or JDK 17)
+
 ## Key Features
 
 ### Home Screen
@@ -28,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/fooddeliveryapp.git
-   
+
 2. **Navigate into the directory**
    ```bash
    cd fooddeliveryapp
