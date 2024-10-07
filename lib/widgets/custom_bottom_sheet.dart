@@ -29,6 +29,7 @@ class CustomBottomSheet extends StatelessWidget {
         // The main content of the bottom sheet
         CustomBackground(
           width: double.infinity,
+          cornerRadiusTopLeft: true,
           backgroundColor: Colors.white,
           height: screenHeight - bottomSheetHeightReduction,
           child: child,
