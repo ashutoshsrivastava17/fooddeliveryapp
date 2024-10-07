@@ -1,20 +1,37 @@
-# fooddeliveryapp
-🛍️ Food Delivery App - Flutter UI Challenge
-This repository showcases a Food Delivery App developed with Flutter, aiming to replicate a sophisticated UI inspired by a Dribbble design.
+# Food Delivery App
 
-Key Features:
+🛍️ **Food Delivery App - Flutter UI Challenge**
 
-Home Screen:
-Horizontal scrolling list of food items.
-Vertical list of available food items.
-Detailed food item view using a bottom sheet.
+This repository showcases a Food Delivery App developed with Flutter, aiming to replicate a sophisticated UI inspired by a design found on [Dribbble](https://dribbble.com/shots/15082658-Food-Delivery-App).
 
-Cart Screen:
-View all items added to the cart.
-Add or remove food items from the cart.
+## Key Features
 
-Technical Approach:
-State Management:
-All app states are managed locally, eliminating the need for external APIs.
+### Home Screen
+- Horizontal scrolling list of food items.
+- Vertical list of available food items.
+- Detailed food item view using a bottom sheet.
 
-This project highlights how Flutter can be used to effectively implement complex UI designs while providing smooth functionality for a food delivery experience.
+### Cart Screen
+- View all items added to the cart.
+- Add or remove food items from the cart.
+
+## Technical Approach
+### State Management
+- All app states are managed locally, eliminating the need for external APIs.
+
+## Project Highlights
+This project demonstrates how Flutter can be utilized to effectively implement complex UI designs while providing smooth functionality for a food delivery experience.
+
+## Getting Started
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/fooddeliveryapp.git
+   
+2. **Navigate into the directory**
+   cd fooddeliveryapp
+3. **Install dependencies**
+   flutter pub get
+4. **Run the app**
+   flutter run
