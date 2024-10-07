@@ -31,3 +31,27 @@ google-services.json
 
 # Android Profiling
 *.hprof
+/pubspec.lock
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/.filecache
+/.dart_tool/dartpad/web_plugin_registrant.dart
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/App.framework/App
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/app.dill
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/debug_ios_bundle_flutter_assets.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/debug_universal_framework.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/debug_unpack_ios.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/flutter_assets.d
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/gen_dart_plugin_registrant.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/gen_localizations.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/kernel_snapshot.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/kernel_snapshot_native_assets.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/kernel_snapshot_program.d
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/kernel_snapshot_program.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/native_assets.d
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/native_assets.dill
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/native_assets.stamp
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/native_assets.yaml
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/outputs.json
+/.dart_tool/flutter_build/09299b3f20228a64f44b7415b8185369/program.dill
+/.dart_tool/package_config.json
+/.dart_tool/package_config_subset
+/.dart_tool/version
