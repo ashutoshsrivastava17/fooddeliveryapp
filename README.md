@@ -31,7 +31,9 @@ To get a local copy up and running, follow these simple steps:
    
 2. **Navigate into the directory**
    cd fooddeliveryapp
+
 3. **Install dependencies**
    flutter pub get
+
 4. **Run the app**
    flutter run
