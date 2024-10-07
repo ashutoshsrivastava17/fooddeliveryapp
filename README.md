@@ -47,8 +47,11 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    flutter run
 
-
-![Home Screen](screenshots/home.png)
-![Product Details](screenshots/item_detail.png)
-![Item added in Cart](screenshots/home_with_cart.png)
-![Cart Screen](screenshots/cart.png)
+<table>
+  <tr>
+    <td><img src="screenshots/home.png" alt="Home Screen" width="200" /></td>
+    <td><img src="screenshots/item_detail.png" alt="Product Details" width="200" /></td>
+    <td><img src="screenshots/home_with_cart.png" alt="Item added in Cart" width="200" /></td>
+    <td><img src="screenshots/cart.png" alt="Cart Screen" width="200" /></td>
+  </tr>
+</table>
