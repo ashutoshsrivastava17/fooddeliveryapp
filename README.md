@@ -1,6 +1,6 @@
 # Food Delivery App
 
-🛍️ **Food Delivery App - Flutter UI Challenge**
+🛍️ **Food Delivery App - Flutter UI**
 
 This repository showcases a Food Delivery App developed with Flutter, aiming to replicate a sophisticated UI inspired by a design found on https://dribbble.com/shots/15082658-Food-Delivery-App.
 
