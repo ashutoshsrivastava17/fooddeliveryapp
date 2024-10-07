@@ -5,12 +5,10 @@
 This repository showcases a Food Delivery App developed with Flutter, aiming to replicate a sophisticated UI inspired by a design found on [Dribbble](https://dribbble.com/shots/15082658-Food-Delivery-App).
 
 ## Flutter & Dart Versions
-- **Flutter**: 3.24.3 (channel stable)  
-  Framework: revision 2663184aa7 (4 weeks ago)  
-  Engine: revision 36335019a8
+- **Flutter**: 3.24.3 (channel stable)
 - **Dart**: 3.5.3
 - **DevTools**: 2.37.3
-- **JDK**: Version (specify your JDK version here, e.g., JDK 11 or JDK 17)
+- **JDK**: Version 17
 
 ## Key Features
 
