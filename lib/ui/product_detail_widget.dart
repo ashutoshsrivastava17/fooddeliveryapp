@@ -4,7 +4,7 @@ import 'package:fooddeliveryapp/models/menu_item.dart';
 import 'package:fooddeliveryapp/models/nutrition.dart';
 import 'package:fooddeliveryapp/repository/cart_repository.dart';
 import 'package:fooddeliveryapp/utils/data_extensions.dart';
-import 'package:fooddeliveryapp/widgets/custom_background.dart';
+import 'package:fooddeliveryapp/ui/widgets/custom_background.dart';
 import '../utils/colors.dart';
 import '../utils/constants.dart';
 

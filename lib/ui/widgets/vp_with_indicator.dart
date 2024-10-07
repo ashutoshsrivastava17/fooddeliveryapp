@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:fooddeliveryapp/models/menu_item.dart';
 import 'package:fooddeliveryapp/utils/data_extensions.dart';
-import 'package:fooddeliveryapp/widgets/custom_background.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
-import '../utils/colors.dart';
+import '../../utils/colors.dart';
+import 'custom_background.dart';
 
 class ViewPagerWithDashIndicator extends StatefulWidget {
   final List<MenuItem> menuItems;

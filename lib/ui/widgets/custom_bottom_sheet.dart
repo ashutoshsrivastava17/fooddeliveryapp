@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:fooddeliveryapp/widgets/custom_background.dart';
-import '../utils/data_extensions.dart';
+import 'package:fooddeliveryapp/utils/data_extensions.dart';
+
+import 'custom_background.dart';
 
 class CustomBottomSheet extends StatelessWidget {
   final Widget child;

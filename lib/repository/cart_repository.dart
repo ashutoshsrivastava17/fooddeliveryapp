@@ -11,8 +11,10 @@ class CartRepository {
     if (existingIndex != -1) {
       // If the item exists, increase its quantity
       CartItem existingItem = _cartItems[existingIndex];
-      int updatedQuantity = (existingItem.quantity ?? 1) + (cartItem.quantity ?? 1);
-      _cartItems[existingIndex] = existingItem.copyWith(quantity: updatedQuantity);
+      int updatedQuantity =
+          (existingItem.quantity ?? 1) + (cartItem.quantity ?? 1);
+      _cartItems[existingIndex] =
+          existingItem.copyWith(quantity: updatedQuantity);
     } else {
       // If the item doesn't exist, add it to the cart
       _cartItems.add(cartItem);
@@ -44,9 +46,13 @@ class CartRepository {
   // Calculates the total price of all items in the cart
   static String getTotalPrice() {
     double totalPrice = 0;
-    _cartItems.forEach((item) {
+    for (var item in _cartItems) {
       totalPrice += (item.quantity ?? 1) * double.parse(item.price ?? "0.0");
-    });
+    }
     return totalPrice.toStringAsFixed(2); // Format to 2 decimal places
+  }
+
+  static void clearCart() {
+    _cartItems.clear();
   }
 }

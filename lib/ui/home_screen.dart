@@ -3,10 +3,10 @@ import 'package:fooddeliveryapp/models/menu_item.dart';
 import 'package:fooddeliveryapp/repository/cart_repository.dart';
 import 'package:fooddeliveryapp/repository/menu_repository.dart';
 import 'package:fooddeliveryapp/ui/cart_detail_widget.dart';
-import 'package:fooddeliveryapp/widgets/circular_dot.dart';
-import 'package:fooddeliveryapp/widgets/custom_background.dart';
-import 'package:fooddeliveryapp/widgets/custom_bottom_sheet.dart';
-import 'package:fooddeliveryapp/widgets/vp_with_indicator.dart';
+import 'package:fooddeliveryapp/ui/widgets/circular_dot.dart';
+import 'package:fooddeliveryapp/ui/widgets/custom_background.dart';
+import 'package:fooddeliveryapp/ui/widgets/custom_bottom_sheet.dart';
+import 'package:fooddeliveryapp/ui/widgets/vp_with_indicator.dart';
 
 import '../utils/colors.dart';
 import '../utils/data_extensions.dart';
